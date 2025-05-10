@@ -9,6 +9,7 @@ alias cnv='cd ~/.config/nvim'
 alias cgt='cd ~/.config/ghostty'
 alias czsh='nvim ~/.zshrc'
 alias sz='source ~/.zshrc'
+alias dot='cd ~/dotfiles'
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
